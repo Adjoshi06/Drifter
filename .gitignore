@@ -1,0 +1,16 @@
+__pycache__/
+.venv/
+*.pyc
+.env
+.idea/
+.vscode/
+drift_reports/
+drift_detector/cli.py
+drift_detector/config.py
+drift_detector/llm.py
+drift_detector.py
+drift_detector/__init__.py
+drift_detector/__
+README.md
+requirements.txt
+.env.example
